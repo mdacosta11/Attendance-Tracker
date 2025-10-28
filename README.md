@@ -13,14 +13,13 @@ Each hour’s data can be saved into a running log with totals, resets, and hour
 - Clean, responsive Swing layout (Grid and Border layouts).
 
 ---
-
 ## Run Locally
 Compile and run:
 ```bash
 javac AttendanceTracker.java
 java AttendanceTracker
-
-Example Usage:
+```
+## Example Usage
 
 Click the “Add” buttons to increment category counts.
 
@@ -30,12 +29,12 @@ Press “Reset” to clear counts manually.
 
 Exit gracefully using the “Exit” button.
 
-Tech Stack:
+## Tech Stack
 
 Language: Java
 
 Framework: Swing (AWT event-driven UI)
 
-Author:
+## Author
 
 Michael Acosta
