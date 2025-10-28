@@ -1,0 +1,19 @@
+# Ignore compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore temporary and cache files
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+# Ignore IDE / Editor settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS files
+Thumbs.db
