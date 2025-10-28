@@ -19,3 +19,23 @@ Compile and run:
 ```bash
 javac AttendanceTracker.java
 java AttendanceTracker
+
+Example Usage:
+
+Click the “Add” buttons to increment category counts.
+
+Press “Save Hour” to log totals and start the next hour.
+
+Press “Reset” to clear counts manually.
+
+Exit gracefully using the “Exit” button.
+
+Tech Stack:
+
+Language: Java
+
+Framework: Swing (AWT event-driven UI)
+
+Author:
+
+Michael Acosta
